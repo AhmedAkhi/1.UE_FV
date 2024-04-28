@@ -1,4 +1,4 @@
-Year;Time;DirectInclined;DiffuseInclined;Reflected;GlobalInclined;DirectHoriz;DiffusHoriz;GlobalHoriz;Clear-Sky;TopofAtmosphere
+Year;Time;DirectInclined;DiffuseInclined;Reflected;GlobalInclined;DirectHoriz;DiffusHoriz;GlobalHoriz;Clear-Sky;TopofAtmosphere;Code
 2005-01-01;00:15;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;1
 2005-01-01;00:30;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;1
 2005-01-01;00:45;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;0.0000;1
